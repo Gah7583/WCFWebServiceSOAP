@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFWebServiceSOAP", "WCFWebServiceSOAP\WCFWebServiceSOAP.csproj", "{21B97072-A565-466C-88D8-8404D5E7DE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B97072-A565-466C-88D8-8404D5E7DE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B97072-A565-466C-88D8-8404D5E7DE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B97072-A565-466C-88D8-8404D5E7DE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B97072-A565-466C-88D8-8404D5E7DE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB140C6-E19D-47EC-9C4B-BB2D3D51AD6D}
+	EndGlobalSection
+EndGlobal
